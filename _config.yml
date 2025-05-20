@@ -1,15 +1,12 @@
 title: Tiyler Gratz
-#logo:
-#description: text below logo
-#show_downlaods: true
 theme: jekyll-theme-cayman
 
 navigation: 
   - title: "About Me"
-    url: "/"
+    url: /
   - title: "Projects"
-    url: "projects"
+    url: projects
   - title: "Art"
-    url: "art"
+    url: art
   - title: "Resume"
-    url: "resume"
+    url: resume
