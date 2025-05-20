@@ -53,4 +53,5 @@ Drawing, video games, time with friends, walking, biking, time with my pets
 
 ## Links 
 [LinkedIn](https://www.linkedin.com/in/tiyler-gratz-181b39303/)
+
 [Itch.io](https://tiylergratz.itch.io/)
