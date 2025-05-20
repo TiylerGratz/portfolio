@@ -44,4 +44,4 @@ effective communication and content sharing.
 # Projects 
 
 # Resume
-![Resume](/assets/resumePDF.pdf)
+![Resume](/assets/TiylerGratzResume.png)
