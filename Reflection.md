@@ -1,9 +1,3 @@
----
-title: Professional Reflection
-permalink: /reflection/
----
-[About Me](/index.md/) | [Projects](/Projects.md/) | [Art](/Art.md/) | [Resume](/Resume.md/) | [Professional Reflection](/Reflection.md/) | [Interview Preperation](/Interview.md/)
-
 My journey as a developing computer scientist has been ever-changing. I did not know much about the topic until high school so I felt that I had to teach myself in order to catch up to where I should be. I grew up in a very rural location so I did not have access to Wi-Fi until about middle school. I also did not have my own computer until I was old enough to babysit and earn enough money to buy one. Yet, I feel as though I still always knew I wanted to end up in an industry like this one. 
   
 Ever since I was very little, I have always enjoyed math and logic. My elementary school teachers would assign us logic problems and I would be the only student in my class that was really excited about it. Later on in middle school, we had a robotics unit in our STEM class. That was one of my first times coding, even though it was just using block code. I did all of the coding for our robot and really enjoyed it. I eventually joined my school’s robotics team. Our team was really small but it taught me a lot about working together to complete a common goal in the STEM field. At this point I was thinking I was either going to go into engineering or graphic design. I have always loved art which is why graphic design seemed interesting to me. As bad as it was, it was during the pandemic that I really dived into learning about programming. 
@@ -19,4 +13,3 @@ My minor in game design also pushed me to go above and beyond what I normally wo
 I am also very proud of “Dungeon Party”. This is mostly because of how well it turned out and all the stuff that I learned in making it. It was my first time making a web app and my first time using Agile methodologies. My team worked very well together which I believe is a huge contributor to how well it turned out. 
 
 My journey to where I am today has been filled with various ups and downs. I started in a place that made me feel behind and like I would not be able to be as successful as I could be. But, I genuinely believe that I have managed to work hard enough that I am where I currently need to be. I am so proud of my accomplishments in computer science and am excited to see what the future brings. 
-
