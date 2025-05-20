@@ -2,7 +2,7 @@ title: Tiyler Gratz
 #logo:
 #description: text below logo
 #show_downlaods: true
-theme: jekyll-theme-cayman
+theme: mmistakes/minimal-mistakes
 
 navigation: 
   - title: "About Me"
