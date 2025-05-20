@@ -13,6 +13,7 @@ deadlines.
 
 ## Education
 University of St. Thomas | St. Paul, MN, USA
+
 BS in Computer Science, minors in Applied Statistics and Game Design 
 
 ## Work Experience
