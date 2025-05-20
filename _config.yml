@@ -3,3 +3,13 @@ title: Tiyler Gratz
 #description: text below logo
 #show_downlaods: true
 theme: jekyll-theme-minimal
+
+navigation: 
+- title: "About Me"
+url: "/"
+- title: "Projects"
+url: "projects"
+- title: "Art"
+url: "art"
+- title: "Resume"
+url: "resume"
