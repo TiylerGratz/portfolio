@@ -1,4 +1,4 @@
 ---
 title: Art
-url: /art
+url: /art/
 ---
