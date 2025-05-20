@@ -46,3 +46,6 @@ effective communication and content sharing.
 - IDEs: Visual Studio, IntelliJ Idea, Eclipse
 - Software: Git, Unity, Unreal, Blender, JMP, Minitab, Microsoft Office Suite
 - Other: Linux, Windows, Node.js
+
+## Other Interests
+Drawing, video games, time with friends, walking, biking, time with my pets
