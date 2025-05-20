@@ -1,12 +1,2 @@
 title: Tiyler Gratz
 theme: jekyll-theme-cayman
-
-navigation: 
-  - title: "About Me"
-    url: /
-  - title: "Projects"
-    url: projects
-  - title: "Art"
-    url: art
-  - title: "Resume"
-    url: resume
