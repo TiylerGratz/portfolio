@@ -3,7 +3,7 @@ title: About Me
 permalink: /
 ---
 
-[About Me](/) | [Projects](/projects) | [Art](/art) | [Resume](/resume) | [Professional Reflection](/reflection) | [Interview Preperation](/interview)
+[About Me](/index.md/) | [Projects](/projects/) | [Art](/art) | [Resume](/resume) | [Professional Reflection](/reflection) | [Interview Preperation](/interview)
 # About Me
 Results-driven Computer Science graduate with a minor in Applied Statistics
 and Game Design, graduating with Dean’s List honors from the University of St. Thomas in just three
