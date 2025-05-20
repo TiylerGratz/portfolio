@@ -44,3 +44,4 @@ effective communication and content sharing.
 # Projects 
 
 # Resume
+![Book logo](/assets/Tiyler Gratz Resume May 2025.pdf)
