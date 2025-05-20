@@ -1,2 +1,4 @@
+---
 title: Art
-layout: page
+url: /art
+---
