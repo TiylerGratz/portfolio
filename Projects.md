@@ -3,7 +3,7 @@ title: Projects
 url: /projects/
 ---
 
-[About Me](/index.md/) | [Projects](/projects.md/) | [Art](/art.md/) | [Resume](/resume.md/) | [Professional Reflection](/reflection.md/) | [Interview Preperation](/interview.md/)
+[About Me](/index.md/) | [Projects](/Projects.md/) | [Art](/Art.md/) | [Resume](/Resume.md/) | [Professional Reflection](/Reflection.md/) | [Interview Preperation](/Interview.md/)
 
 # Dungeon Party 
 ## An online multiplayer game.
