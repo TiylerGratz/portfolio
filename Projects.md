@@ -1,4 +1,4 @@
 ----
 title: Projects
-url: /projects
+url: /projects/
 ----
