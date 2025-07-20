@@ -4,7 +4,7 @@ url: /projects/
 ---
 
 [About Me](/index.md/) | [Projects](/Projects.md/) | [Art](/Art.md/) | [Resume](/Resume.md/) 
-
+<p align="center">
 # Dungeon Party 
 ![Dungeon Party Logo](assets/deungnPartyLogo.png)
 ## Description: An online multiplayer game designed for groups of 4 - 15. Dungeon Party is a team focused, web-based, party game inteded to be accessible for people of varying experience levels and financial standing. The game consists of an overworld that players can strategically navigate as well as minigames that allow for skill expression and foster team collaboration. 
@@ -34,3 +34,4 @@ url: /projects/
 ## Description: A game intended to inform users on the current state of the snow leopard population. The user plays as a snow leopard in a platformer representing a mountain. The player must hunt and eat goats in order to survive. With every passing day, humans begin to show up in the mountains. They build farms, lower the wild goat population, and see snow leopards as threats. When a human sees a snow leopard, they will shoot and try to kill them. The player must explore and get food while avoiding getting killed by the humans. This game mirrors how in real life, snow leopard populations are in danger due to humans moving into their territory and then killing snow leopards when they hunt lifestock.
 ## Contribution: All
 ### Keywords: Game, Platformer, Snow Leopard, Inform
+</p>
