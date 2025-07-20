@@ -5,7 +5,7 @@ url: /projects/
 
 [About Me](/index.md/) | [Projects](/Projects.md/) | [Art](/Art.md/) | [Resume](/Resume.md/) 
  
-<h align="center" font-size="30px"> Dungeon Party </h>
+<h1 align="center"> Dungeon Party </h1>
 <br>
 <img src="assets/deungnPartyLogo.png" alt="Dungeon Party Title Image" width="75%" height="auto" align="center">
 
