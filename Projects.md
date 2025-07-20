@@ -50,5 +50,5 @@ url: /projects/
 </p>
 ## Description: A game intended to inform users on the current state of the snow leopard population. The user plays as a snow leopard in a platformer representing a mountain. The player must hunt and eat goats in order to survive. With every passing day, humans begin to show up in the mountains. They build farms, lower the wild goat population, and see snow leopards as threats. When a human sees a snow leopard, they will shoot and try to kill them. The player must explore and get food while avoiding getting killed by the humans. This game mirrors how in real life, snow leopard populations are in danger due to humans moving into their territory and then killing snow leopards when they hunt lifestock.
 ## Contribution: All
+
 <p align="center"> Keywords: Game, Platformer, Snow Leopard, Inform</p>
-</p>
