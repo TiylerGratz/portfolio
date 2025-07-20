@@ -5,6 +5,7 @@ permalink: /
 
 [About Me](/index.md/) | [Projects](/Projects.md/) | [Art](/Art.md/) | [Resume](/Resume.md/)
 
+ <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <img src="assets/portrait.jpg" alt="Portrait Image" width="30%" height="auto">
 
 Results-driven Computer Science graduate with a minor in Applied Statistics
