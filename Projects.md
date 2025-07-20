@@ -11,7 +11,7 @@ url: /projects/
 ## Contribution: Programmed the majority of the overworld and created/animated all of the visual assets
 ### Keywords: Game, Multiplayer, Team-Focused
 ### [Game Link](https://dungeonpartyust.netlify.app/)
-
+<br>
 
 # Mind On Break
 ![Dungeon Party Logo](assets/titleImage.png)
