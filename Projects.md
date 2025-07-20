@@ -17,7 +17,9 @@ url: /projects/
 <hr>
 
 <h1 align="center">Mind on Break</h1>
-<img src="assets/titleImage.png" alt="Mind on Break Title Image" align="center" width="75%" height="auto">
+<p align="center">
+<img src="assets/titleImage.png" alt="Mind on Break Title Image" width="75%" height="auto">
+</p>
 
 ## Description: A game focused on the impacts of maladaptive day dreaming. Mind On Break is a RPG where the user plays as a person working at a burger shop. They do not enjoy their work there and often begin to day dream. During these day dreams, the player gets to be a robot. This robot has broken out of their programming and can do whatever they want. During the daydreams, the player uses their microphone to interact with the world. By using different volume levels of sound, they can solve puzzles, win combats, and progress through the game. But, their time spent in the dream can negatively effect their real life. The player must choose between being successful in the dream or successful in the real world. 
 ## Contribution: All
@@ -26,7 +28,9 @@ url: /projects/
 <hr>
 
 <h1 align="center">Shuffled Scuffle</h1>
-<img src="assets/shuffledScuffleLogo" alt="Shuffled Scuffle Title Image" align="center" width="75%" height="auto">
+<p align="center">
+<img src="assets/shuffledScuffleLogo" alt="Shuffled Scuffle Title Image" width="75%" height="auto">
+</p>
 
 ## Description: A game made for a week long game jam with the theme "Random Chance". In this game, the player can use a slot machine to determine their character build. It takes tokens to run the machine so they cannot infinitely spin it. The slot machine gives effects such as double jump, increased melee damage, etc. With these effects, the player then enters a combat. Every round exponentially more enemies spawn in, each one killed increases the player's score and gives them tokens. The player's goal is to get as high of a score as possible. 
 ## Contribution: All
