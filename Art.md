@@ -10,5 +10,5 @@ url: /art/
 <img src="assets/Nyx.png" alt="Nyx Art" width="40%" height="auto" display="block">
 <img src="assets/Oslo.png" alt="Oslo Art" width="40%" height="auto" display="block">
 <img src="assets/audraArt.png" alt="Audra Art" width="40%" height="auto" display="block">
-<img src="assets/deminatalia.png" alt="Demi and Natalia Art" width="40%" height="auto" display="block">
+<img src="assets/deminatalia.jpg" alt="Demi and Natalia Art" width="40%" height="auto" display="block">
 <img src="assets/maltheus.png" alt="Maltheus Art" width="50%" height="auto" display="block">
