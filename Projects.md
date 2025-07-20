@@ -13,14 +13,16 @@ url: /projects/
 ## Description: An online multiplayer game designed for groups of 4 - 15. Dungeon Party is a team focused, web-based, party game inteded to be accessible for people of varying experience levels and financial standing. The game consists of an overworld that players can strategically navigate as well as minigames that allow for skill expression and foster team collaboration. 
 ## Contribution: Programmed the majority of the overworld and created/animated all of the visual assets
 <p align="center"> Keywords: Game, Multiplayer, Team-Focused </p>
-<p align="center"> [Game Link](https://dungeonpartyust.netlify.app/)</p>
+<p align="center">
+ 
+ [Game Link](https://dungeonpartyust.netlify.app/)
+ 
+ </p>
 <hr>
 
 <h1 align="center">Mind on Break</h1>
 <p align="center">
- 
 <img src="assets/titleImage.png" alt="Mind on Break Title Image" width="75%" height="auto">
-
 </p>
 
 ## Description: A game focused on the impacts of maladaptive day dreaming. Mind On Break is a RPG where the user plays as a person working at a burger shop. They do not enjoy their work there and often begin to day dream. During these day dreams, the player gets to be a robot. This robot has broken out of their programming and can do whatever they want. During the daydreams, the player uses their microphone to interact with the world. By using different volume levels of sound, they can solve puzzles, win combats, and progress through the game. But, their time spent in the dream can negatively effect their real life. The player must choose between being successful in the dream or successful in the real world. 
