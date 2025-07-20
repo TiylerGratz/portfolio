@@ -19,7 +19,7 @@ url: /projects/
 ## Contribution: All
 ### Keywords: Game, RPG, Puzzle, Microphone
 ### [Game Trailer](https://youtu.be/tK_elxOnCCc)
-
+<br>
 
 # Shuffled Scuffle
 ![Shuffled Scuffle Logo](assets/shuffledScuffleLogo)
@@ -27,7 +27,7 @@ url: /projects/
 ## Contribution: All
 ### Keywords: Game, Combat, Random Chance
 ### [Game Link](https://tiylergratz.itch.io/shuffled-scuffle)
-
+<br>
 
 # Ghost of the Mountain
 ![Dungeon Party Logo](assets/inAir.png)
