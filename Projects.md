@@ -11,7 +11,7 @@ url: /projects/
 ## Contribution: Programmed the majority of the overworld and created/animated all of the visual assets
 ### Keywords: Game, Multiplayer, Team-Focused
 ### [Game Link](https://dungeonpartyust.netlify.app/)
-<br>
+<hr>
 
 # Mind On Break
 ![Dungeon Party Logo](assets/titleImage.png)
@@ -19,7 +19,7 @@ url: /projects/
 ## Contribution: All
 ### Keywords: Game, RPG, Puzzle, Microphone
 ### [Game Trailer](https://youtu.be/tK_elxOnCCc)
-<br>
+<hr>
 
 # Shuffled Scuffle
 ![Shuffled Scuffle Logo](assets/shuffledScuffleLogo)
@@ -27,7 +27,7 @@ url: /projects/
 ## Contribution: All
 ### Keywords: Game, Combat, Random Chance
 ### [Game Link](https://tiylergratz.itch.io/shuffled-scuffle)
-<br>
+<hr>
 
 # Ghost of the Mountain
 ![Dungeon Party Logo](assets/inAir.png)
