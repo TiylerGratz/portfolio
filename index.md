@@ -18,7 +18,11 @@ University of St. Thomas | St. Paul, MN, USA
 BS in Computer Science, minors in Applied Statistics and Game Design 
 
 ## Work Experience
-2023 – PRESENT ● Math Tutor, University of St. Thomas, St. Paul, MN
+Summer 2025 ●  Software Engineering Intern, ProcessBolt, Minnetonka, MN
+- Developed a C# web scraper to extract information from Wikipedia and store it in structured JSON format.
+- Upgraded existing software by integrating modern technologies, enhancing efficiency and long-term support.
+
+2023 – 2025 ● Math Tutor, University of St. Thomas, St. Paul, MN
 - Tutored college students in mathematics, helping them grasp complex concepts and improve
 their academic performance, resulting in increased confidence and success in
 problem-solving.
@@ -28,7 +32,7 @@ their coursework.
 - Worked closely with a team of tutors to provide personalized support, addressing individual
 questions and contributing to a more interactive and supportive learning environment.
 
-2024 – PRESENT ● St. Thomas Robotics Club
+2024 – 2025 ● St. Thomas Robotics Club
 - Worked with a team to design, build, and program an FRC (FIRST Robotics Competition)
 robot in just three days, which is typically done in six weeks, demonstrating strong time
 management and problem-solving skills under pressure.
@@ -48,7 +52,7 @@ effective communication and content sharing.
 - IDEs: Visual Studio, IntelliJ Idea, Eclipse
 - Software: Git, Unity, Unreal, Blender, JMP, Minitab, Microsoft Office Suite
 - Other: Linux, Windows, Node.js
-- Soft Skills: Communication, Team Coordination, Adaptability, Creativity, Problem Solving
+- Soft Skills: Communication, Team Coordination, Adaptability, Creativity, Problem Solving, Customer Service
 
 ## Other Interests
 Drawing, video games, time with friends, walking, biking, time with my pets
