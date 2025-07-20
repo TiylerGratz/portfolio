@@ -10,7 +10,7 @@ url: /projects/
 ## Description: An online multiplayer game designed for groups of 4 - 15. Dungeon Party is a team focused, web-based, party game inteded to be accessible for people of varying experience levels and financial standing. The game consists of an overworld that players can strategically navigate as well as minigames that allow for skill expression and foster team collaboration. 
 ## Contribution: Programmed the majority of the overworld and created/animated all of the visual assets
 ### Keywords: Game, Multiplayer, Team-Focused
-###[Link](https://dungeonpartyust.netlify.app/)
+### [Link](https://dungeonpartyust.netlify.app/)
 
 # Mind On Break
 ![Dungeon Party Logo](assets/titleImage.png)
