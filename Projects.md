@@ -4,11 +4,12 @@ url: /projects/
 ---
 
 [About Me](/index.md/) | [Projects](/Projects.md/) | [Art](/Art.md/) | [Resume](/Resume.md/) 
-<p align="center">
 
-  
-# Dungeon Party 
+
+  <h align="center">
+ Dungeon Party 
 ![Dungeon Party Logo](assets/deungnPartyLogo.png)
+  </h>
 ## Description: An online multiplayer game designed for groups of 4 - 15. Dungeon Party is a team focused, web-based, party game inteded to be accessible for people of varying experience levels and financial standing. The game consists of an overworld that players can strategically navigate as well as minigames that allow for skill expression and foster team collaboration. 
 ## Contribution: Programmed the majority of the overworld and created/animated all of the visual assets
 ### Keywords: Game, Multiplayer, Team-Focused
