@@ -26,6 +26,13 @@ Summer 2025 ●  Software Engineering Intern, ProcessBolt, Minnetonka, MN
 - Developed a C# web scraper to extract information from Wikipedia and store it in structured JSON format.
 - Upgraded existing software by integrating modern technologies, enhancing efficiency and long-term support.
 
+2024 – 2025 ● St. Thomas Robotics Club
+- Worked with a team to design, build, and program an FRC (FIRST Robotics Competition)
+robot in just three days, which is typically done in six weeks, demonstrating strong time
+management and problem-solving skills under pressure.
+- Helped prototype and develop key components of the robot in a fast-paced environment, using
+technical skills and creativity to complete the project successfully within a tight deadline.
+
 2023 – 2025 ● Math Tutor, University of St. Thomas, St. Paul, MN
 - Tutored college students in mathematics, helping them grasp complex concepts and improve
 their academic performance, resulting in increased confidence and success in
@@ -35,13 +42,6 @@ Finite Math to Calculus II, ensuring they understood key concepts and achieved s
 their coursework.
 - Worked closely with a team of tutors to provide personalized support, addressing individual
 questions and contributing to a more interactive and supportive learning environment.
-
-2024 – 2025 ● St. Thomas Robotics Club
-- Worked with a team to design, build, and program an FRC (FIRST Robotics Competition)
-robot in just three days, which is typically done in six weeks, demonstrating strong time
-management and problem-solving skills under pressure.
-- Helped prototype and develop key components of the robot in a fast-paced environment, using
-technical skills and creativity to complete the project successfully within a tight deadline.
 
 2018 – 2022 ● First Robotics, Team Captain (2021-2022)
 - Developed and debugged code to enhance robot functionality, applying problem-solving skills
