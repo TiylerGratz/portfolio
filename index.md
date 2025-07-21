@@ -59,7 +59,7 @@ effective communication and content sharing.
 - Soft Skills: Communication, Team Coordination, Adaptability, Creativity, Problem Solving, Customer Service
 
 ## Other Interests
-Drawing, video games, time with friends, walking, biking, time with my pets
+Drawing, video games, walking, biking
 
 ## Links 
 - [LinkedIn](https://www.linkedin.com/in/tiyler-gratz-181b39303/)
