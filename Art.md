@@ -3,7 +3,7 @@ title: Art
 url: /art/
 ---
 
-[About Me](/index.md/) | [Projects](/Projects.md/) | [Art](/Art.md/) | [Resume](/Resume.md/)
+[About Me](/index.md/) | [Projects](/Projects.md/) |  [Resume](/Resume.md/) | [Art](/Art.md/)
 
 <img src="assets/AriD&D.png" alt="Ari Art" width="45%" height="auto" display="block">
 <img src="assets/KosmoD&D.png" alt="Kosmo Art" width="45%" height="auto" display="block">
