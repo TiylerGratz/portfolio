@@ -5,7 +5,8 @@ permalink: /
 <head>
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
-[About Me](/index.md/) | [Projects](/Projects.md/) | [Art](/Art.md/) | [Resume](/Resume.md/)
+
+[About Me](/index.md/) | [Projects](/Projects.md/) |  [Resume](/Resume.md/) | [Art](/Art.md/)
 
 <img src="assets/portrait.jpg" alt="Portrait Image" width="30%" height="auto">
 
