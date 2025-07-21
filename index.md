@@ -64,3 +64,5 @@ Drawing, video games, time with friends, walking, biking, time with my pets
 - [LinkedIn](https://www.linkedin.com/in/tiyler-gratz-181b39303/)
 
 - [Itch.io](https://tiylergratz.itch.io/)
+
+- [GitHub](https://github.com/TiylerGratz)
