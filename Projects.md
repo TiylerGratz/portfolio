@@ -3,7 +3,7 @@ title: Projects
 url: /projects/
 ---
 
-[About Me](/index.md/) | [Projects](/Projects.md/) | [Art](/Art.md/) | [Resume](/Resume.md/) 
+[About Me](/index.md/) | [Projects](/Projects.md/) |  [Resume](/Resume.md/) | [Art](/Art.md/)
  
 <h1 align="center"> Dungeon Party </h1>
 <p align="center">
