@@ -8,7 +8,7 @@ permalink: /
 
 [About Me](/index.md/) | [Projects](/Projects.md/) |  [Resume](/Resume.md/) | [Art](/Art.md/)
 
-<img src="assets/portrait.jpg" alt="Portrait Image" width="30%" height="auto">
+<img src="assets/DSC_01800.JPG" alt="Portrait Image" width="30%" height="auto">
 
 Results-driven Computer Science graduate with a minor in Applied Statistics
 and Game Design, graduated with Dean’s List honors from the University of St. Thomas in just three
